@@ -1,0 +1,7 @@
+ctrl + f 查找	
+ctrl + shift +f 	代码格式化
+ctrl +w 	关闭当前文件
+ctrl + shift+ l	调出所有的快捷键
+ctrl + shift + s 	保存所有文件
+windows > pre000>keys 更改快捷方式
+浏览》显示位置》大纲
