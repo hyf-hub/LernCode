@@ -1,0 +1,102 @@
+#Background{
+	background:url("background.png");
+	width: auto;
+	height: 4200px;
+}
+/*公共样式*/
+.zindex{
+	z-index:auto;
+	position:relative;
+}
+.Tittle{
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+.Tittle >span{
+	position: absolute;
+    margin-left: 407px;
+    margin-top: -110px;
+	font-size: 40px;
+	color: white;
+}
+#Background_img >img{
+	width:-webkit-fill-available;
+	z-index:-1;
+	position: absolute;
+}
+#One{
+	width: 100%;
+    height: 455px;
+    padding-top: 1650px;
+}
+#One_1{
+    padding-left: 44px;
+    height: 455px;	
+}
+#One_3{
+	position: absolute;
+    padding-top: 50px;
+	z-index: 2; 
+    margin-left: 270px;	
+}
+#One_2 {
+	display: flex;
+    margin-top: 200px;
+	position: absolute;
+    z-index: 2;
+}
+#One_2 .fk{
+	margin-left: 80px;
+	width: 200px;
+	height: 200px;
+}
+#One_2 .fk >img{
+	position: absolute;
+}
+#One_2 .content{
+	background: white;
+    width: 165px;
+    height: 182px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#One_2 .Text{
+	text-align: center;
+	margin-top: 25px;
+}
+#One_2 .min{font-size: 36px;}
+#One_2 .big{font-size: 72px;}
+#One_2 .Button{
+	margin: 0 auto;
+    width: 100px;
+    height: 25px;
+    background-color: #8602E2;
+    border-radius: 7px;    
+}
+#One_2 .Button_Text{
+    display: block;
+    color: white;
+    text-align: center;
+    line-height: 25px; 
+}
+#Top_shop {
+	width: 100%;
+}
+#Top_shop .content{
+width: 850px;
+    height: 804px;
+    margin: 0 auto;
+}
+#Top_shop .fk{
+    background-color: white;
+    width: 650px;
+    height: 350px;
+    position: absolute;
+    margin: 40px 0 0 111px;
+}
+
+#Top_shop .End{
+	margin-top: 415px;
+}
